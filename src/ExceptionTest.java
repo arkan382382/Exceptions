@@ -50,7 +50,7 @@ class Matrix{
     }
 }
 
-/*      Example p. 68 ClearCode
+/*      Example p. 68 ClearCode - extracting try block:
    try {   
        deletePage(page);   
        registry.deleteReference(page.name);   
